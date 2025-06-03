@@ -30,26 +30,6 @@
 * **高影響力**：例 — 供應鏈需求預測、智慧排程
 * **半年可見效**：聚焦 6 個月內能交付 MVP 的流程
 
-### 3.3 AI Agent 平台建置
-
-* **架構**：微服務 + API‑First
-
-  * 服務溝通：gRPC / RESTful
-  * 容器化：Docker + Kubernetes (EKS / GKE)
-  * 事件流：Kafka / NATS
-
-* **資料安全與合規**
-
-  * 身份／權限：OIDC + RBAC
-  * 日誌與審計：ELK / OpenTelemetry
-  * 隱私：PII Masking、加密 at‑rest & in‑transit (AES‑256 / TLS 1.3)
-
-* **與既有系統整合**
-
-  * 透過 API Gateway (Kong / Apigee) 暴露統一介面
-  * 建立 SDK / Webhook 供 ERP、MES 等系統串接
-  * 支援混合雲 VPN / VPC Peering，確保低延遲與安全
-
 ## 4. 專案執行計畫（12 個月） 專案執行計畫（12 個月）
 
 | 階段          | 期間     | 主要產出                                                                               |
@@ -211,24 +191,6 @@ With the maturity of Generative AI and AI Agent technologies, enterprises wo
 * **High‑frequency & standardized**: e.g., report consolidation, customer‑service Q\&A, automated testing.
 * **High impact**: e.g., supply‑chain demand forecasting, smart scheduling.
 * **Visible within six months**: Focus on processes where an MVP can be delivered in ≤ 6 months.
-
-### 3.3 AI Agent Platform
-
-* **Architecture**: Microservices + API‑First
-
-  * Service communication: gRPC / RESTful
-  * Containerization: Docker + Kubernetes (EKS / GKE)
-  * Event stream: Kafka / NATS
-* **Security & Compliance**
-
-  * Identity & Access: OIDC + RBAC
-  * Logging & Audit: ELK / OpenTelemetry
-  * Privacy: PII masking, encryption at rest & in transit (AES‑256 / TLS 1.3)
-* **Integration with Existing Systems**
-
-  * Unified interface via API Gateway (Kong / Apigee)
-  * SDK / Webhooks for ERP, MES, etc.
-  * Hybrid‑cloud connectivity (VPN / VPC Peering) for low latency and security.
 
 ## 4. Project Roadmap (12 Months)
 

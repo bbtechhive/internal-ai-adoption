@@ -116,9 +116,9 @@
 
 | 工作類型    | 人數 | 每人每週節省工時  | 年度節省 (百萬) |
 | ------- | -- | --------- | --------- |
-| 業務 / 營運 | 40 | 2 小時      | 2.5       |
+| 業務 / 營運 | 10 | 2 小時      | 0.6       |
 | 部門主管    | 20 | 2 小時      | 1.3       |
-| **小計**  | 60 | 加權平均 2 小時 | **3.8**   |
+| **小計**  | 30 | 加權平均 2 小時 | **1.9**   |
 
 #### 8.3.2 其他節省
 
@@ -126,10 +126,10 @@
 | ---------- | --------- |
 | 外包 / 顧問費減少 | 1.0       |
 | 錯誤 / 重工降低  | 0.9       |
-| **總節省**    | **5.7**   |
+| **總節省**    | **3.8**   |
 
-> \*\*ROI = (5.7 − 3.0) / 3.0 ≈ 90%
-> *相較《The ROI of Generative AI》報告指出 74% 企業能在一年內回本，本提案 ROI ≈ 90% 顯得更具保守且可行的投資回報。*
+> \*\*ROI = (3.8 − 3.0) / 3.0 ≈ 27%
+> *根據《The ROI of Generative AI》報告，74% 企業能在一年內回本；本案雖預估 ROI 約 27%，仍為正向回報，且未計入品牌形象、知識沉澱等隱性效益。*
 > \*\*
 > ROI 仍高於 Gartner 2024 RPA 專案平均門檻（>30%），顯示投資合理性。
 
@@ -267,9 +267,9 @@ With the maturity of Generative AI and AI Agent technologies, enterprises wo
 
 | Role Type        | Headcount | Hours Saved/Week | Annual Saving (M TWD) |
 | ---------------- | --------- | ---------------- | --------------------- |
-| Sales / Ops      | 40        | 2 h              | 2.5                   |
+| Sales / Ops      | 10        | 2 h              | 0.6                   |
 | Department Heads | 20        | 2 h              | 1.3                   |
-| **Subtotal**     | 60        | Avg 2 h          | **3.8**               |
+| **Subtotal**     | 30        | Avg 2 h          | **1.9**               |
 
 #### 8.3.2 Other Savings
 
@@ -277,10 +277,10 @@ With the maturity of Generative AI and AI Agent technologies, enterprises wo
 | ------------------------------ | --------------------- |
 | Reduced outsourcing/consulting | 1.0                   |
 | Fewer errors/rework            | 0.9                   |
-| **Total Saving**               | **5.7**               |
+| **Total Saving**               | **3.8**               |
 
-> **ROI = (5.7 − 3.0) / 3.0 ≈ 90%**
-> *Compared with the Google Cloud report where 74% of enterprises recoup AI investment within a year, our proposal’s \~90% ROI remains prudent yet attractive.*
+> **ROI = (3.8 − 3.0) / 3.0 ≈ 27%**
+> *According to the Google Cloud report, 74% of enterprises recoup AI investment within a year. Our proposal’s \~27% ROI remains positive and does not count intangible gains such as brand value and knowledge retention.*
 
 ## 9. Long‑Term Governance & Sustainability
 
